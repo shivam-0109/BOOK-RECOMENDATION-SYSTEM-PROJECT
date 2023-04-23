@@ -1,0 +1,38 @@
+*{
+    font-family: 'Anton', sans-serif;
+    font-family: 'Russo One', sans-serif;
+    font-family: 'Signika', sans-serif;
+
+}
+.discription-container{
+    width: 100%;
+    height: auto;
+    display: flex;
+    border: 2px solid white;
+    background-color: white;
+    text-align:left;
+}
+.discription-element{
+    margin: 10px;
+    height:auto;
+}
+.dis-content{
+    width: 70%;
+}
+.img-dis{
+    height: 400px;
+   margin: 30px;
+}
+.btn-dis{
+    color: aliceblue;
+    background-color: black;
+    border-radius: 5px;
+
+}
+.btn-dis:hover{
+    height: 30px;
+background-color: red;
+}
+.book-name-dis{
+ color: red;
+}
